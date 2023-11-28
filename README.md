@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MONGSING
-- 👀 I’m interested in ... Python Programming language
-- 🌱 I’m currently learning ...Python
-- 💞️ I’m looking to collaborate with... Python developer
+- 👀 I’m interested in ... Python and Solidity Programming language
+- 🌱 I’m currently learning ...Python, Solidity
+- 💞️ I’m looking to collaborate with... Python, Solidity developer
 - 📫 How to reach me ...Facebook, Instagram, what's app
 
 <!---
