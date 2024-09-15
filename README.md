@@ -6,7 +6,7 @@ I’m a passionate Blockchain Developer with expertise in building secure, effic
 
 ## 🔗 Skills & Expertise
 - ```Smart Contract Development```: Proficient in Solidity, specializing in ERC-20, ERC-721, and custom token features.
-- Blockchain Technology: Experience working with Ethereum, IPFS, and decentralized storage systems.
+- ```Blockchain Technology```: Experience working with Ethereum, IPFS, and decentralized storage systems.
 - ```Tools & Frameworks```: Hardhat, Truffle, OpenZeppelin, Remix.
 - ```Programming Languages```: Solidity, Python, JavaScript.
 - ```Security Practices```: Smart contract audits, reentrancy protection, gas optimization, and vulnerability fixes.
