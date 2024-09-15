@@ -21,7 +21,7 @@ Certified Blockchain Developer: Earned certification from Creative IT Institute.
 ## 🌐 Future Goals
 I aim to expand my expertise in Layer 2 solutions, DeFi applications, and cross-chain development. My ultimate goal is to contribute to innovative blockchain solutions that enhance security, scalability, and accessibility for all.
 ## 📫 Connect with Me
-- LinkedIn
-- Fiverr
+- LinkedIn : https://www.linkedin.com/in/mong-sing-hai/
+- Fiverr : https://www.fiverr.com/s/yvw2ePA
 
 Let's work together to build the future of decentralized technology!
