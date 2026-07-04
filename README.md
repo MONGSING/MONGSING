@@ -50,7 +50,7 @@ Developed a hybrid WooCommerce platform combining product sales with dental appo
 
 ### 🤝 Connect with Me
 - **LinkedIn:** [linkedin.com/in/mong-sing-hai](https://www.linkedin.com/in/mong-sing-hai/)
-- **Upwork:** [Upwork Profile](https://www.upwork.com) *(আপনার লিংকটি বসাবেন)*[cite: 1, 2]
+- **Upwork:** [Upwork Profile]([https://www.upwork.com](https://www.upwork.com/freelancers/~01a65c63fa520b5ca1?mp_source=share)) *(আপনার লিংকটি বসাবেন)*[cite: 1, 2]
 - **Fiverr:** [fiverr.com/s/ywv2ePA](https://www.fiverr.com/s/ywv2ePA)
 
 Let's work together to build high-performance and conversion-focused web solutions!
